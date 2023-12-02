@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @zhraa1992
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- مرحبًا ، أنا @ zhraa1992
+- أنا مهتم ب ...
+- أنا أتعلم حاليًا ...
+- ️ أتطلع إلى التعاون ...
+- كيف تصل إلي ...
 
 <!---
-zhraa1992/zhraa1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+zhraa1992 / zhraa1992 هو مستودع خاص ・ لأنه يظهر `README.md` (هذا الملف) في ملف تعريف GitHub الخاص بك.
+يمكنك النقر فوق رابط المعاينة لإلقاء نظرة على التغييرات الخاصة بك.
 --->
